@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "templates": [
+    {
+      "id": "new-react-vite-h5",
+      "type": "spec",
+      "name": "React + Vite H5",
+      "description": "Frontend spec scaffold for mobile H5 projects built with React and Vite (Trellis .trellis/spec/frontend)",
+      "path": "specs/new-react-vite-h5",
+      "tags": ["react", "vite", "h5", "typescript", "mobile-web"]
+    }
+  ]
+}
