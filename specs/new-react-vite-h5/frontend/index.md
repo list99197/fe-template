@@ -22,6 +22,9 @@ This directory contains guidelines for frontend development. It follows the same
 | [State Management](./state-management.md) | Local state, global state, server state | To fill |
 | [Quality Guidelines](./quality-guidelines.md) | Code standards, forbidden patterns | To fill |
 | [Type Safety](./type-safety.md) | Type patterns, validation | To fill |
+| [API Guidelines](./api-guidelines.md) | Where APIs live, how to call them (HTTP layer) | Scaffold (中文) |
+| [Routing Guidelines](./routing-guidelines.md) | Route config location, patterns, meta semantics | Scaffold (中文) |
+| [Shared Components Catalog](./shared-components-catalog.md) | Public components inventory (`src/components`, layouts) | Scaffold (中文) |
 
 ---
 
@@ -38,4 +41,4 @@ The goal is to help AI assistants and new team members understand how YOUR proje
 
 ---
 
-**Language**: All documentation should be written in **English**.
+**Language**: Core scaffold files use **English**; **API /  routing / shared-components** guidelines are **Chinese** starter templates—统一为中文或英文由团队自行约定。
